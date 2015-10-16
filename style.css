@@ -1,5 +1,121 @@
+@import url(https://fonts.googleapis.com/css?family=Mrs+Sheppards);
+@import url(https://fonts.googleapis.com/css?family=Megrim);
+@import url(https://fonts.googleapis.com/css?family=Bentham);
+
+header{
+  margin-left: 30%;
+  font-family: 'Mrs Sheppards', cursive;
+  font-size: 40px;
+  color:#5A0000;
+}
+
+#mainColumn {
+  background-color: lightyellow;
+}
 
 h2 {
+  margin-left: 40%;
+  padding-bottom: 5%;
+  font-family: 'Megrim', cursive;
+}
+
+h3 {
+  font-family: 'Bentham', serif;
+  font-size: 24px;
+}
+
+#foodtruck{
+  position: relative;
+  right: 170px;
+}
+
+h4 {
+  margin-left: 15%;
+  padding-bottom: 2px;
+  font-family: 'Megrim', cursive;
+}
+
+
+.box{
+  display: block;
+  background-image: url(http://theguiltyvegetarian.com/wp-content/uploads/2012/07/kidney-bean1-e1341462619412.jpg);
+  width: 100px;
+  height: 80px;
+  float:left;
+  margin: 20px;
+  color: white;
+  border: 6px solid #5A0000;
+}
+
+#ourstory{
+width: 100px;
+font-size: 25px;
+padding: 1em;
+margin: 2em;
+margin-left: 10%;
+text-align: center;
+font-family: 'Mrs Sheppards', cursive;
+}
+
+#menu{
+  width: 100px;
+  font-size: 25px;
+  padding: 1em;
+  margin: 2em;
+  margin-left: 18%;
+  text-align: center;
+  font-family: 'Mrs Sheppards', cursive;
+}
+
+#upcoming_events{
+  width: 100px;
+  font-size: 25px;
+  padding: 1em;
+  margin: 2em;
+  float:right;
+  margin-right: 10%;
+  text-align: center;
+  font-family: 'Mrs Sheppards', cursive;
+}
+
+header2{
+  text-align: center;
+  font-family: 'Mrs Sheppards', cursive;
+  font-size: 40px;
+  color:#5A0000;
+}
+
+#menucontent{
+  text-align: center;
+  background-color: lightyellow;
+}
+
+#titles{
+  margin-right: 28.5%;
+  padding-top: 1em;
+  color:#5A0000;
   text-decoration: underline;
-  
+}
+
+header3{
+  padding: 1em;
+  margin-left: 30%;
+  font-family: 'Mrs Sheppards', cursive;
+  font-size: 80px;
+  color:#5A0000;
+}
+
+#storycontent{
+  font-family: 'Bentham', serif;
+  font-size: 24px;
+  padding: 1em;
+  border: 5px solid #5A0000;
+  background-color: lightyellow;
+}
+
+header4{
+  font-family: 'Mrs Sheppards', cursive;
+  color:#5A0000;
+  font-size: 80px;
+  margin-left: 30%;
 }
